@@ -14,6 +14,9 @@
             "email": "admin@jolyonmiller.co.uk"
         }
     ],
+    "require": {
+        "bower-asset/bxslider.js": ""
+    },
     "autoload": {
         "psr-4": {
             "joemiller\\bxslider\\": ""
