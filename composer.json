@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "bower-asset/bxslider.js": ""
+        "bower-asset/bx-slider.js": ""
     },
     "autoload": {
         "psr-4": {
