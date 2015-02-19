@@ -1,0 +1,22 @@
+{
+    "name": "joe-miller/yii2-bxslider",
+    "description": "Yii2 BxSlider",
+    "keywords": ["bxslider", "template", "yii2", "yii"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Steven Wanderski",
+            "email": "steven@bxcreative.com"
+        },
+        {
+            "name": "Joe Miller",
+            "email": "admin@jolyonmiller.co.uk"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "joemiller\\bxslider\\": ""
+        }
+    }
+}
